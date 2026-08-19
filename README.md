@@ -1,10 +1,9 @@
 # torbr
 
-Ferramenta de QR Code para Blogger (tema único, sem servidor).
+Bibliotecas locais para a ferramenta de QR Code de blog (uso no Blogger).
 
 ## Estrutura
 
-- `theme-8578514451183524045.xml` — tema do Blogger com o gerador/leitor de QR Code.
 - `Diversos/qrcode.min.js` — biblioteca de geração de QR Code (qrcode-generator 1.4.4).
 - `Diversos/jsQR.min.js` — biblioteca de leitura de QR Code (jsQR 1.4.0).
 
