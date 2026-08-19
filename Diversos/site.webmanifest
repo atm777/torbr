@@ -1,0 +1,25 @@
+{
+  "name": "QR Code Studio PRO — Gerador e Leitor de QR Code",
+  "short_name": "QR Code Studio",
+  "description": "Gere e leia QR Code e código de barras 100% no navegador, sem enviar dados a servidor.",
+  "lang": "pt-BR",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLyeW7_dhlpz5uUC29T9DGeQO4Lkhr5WbFqYJArh7samq5Eyrq_B2xJBnPlQdpoA6rqSX3cNBkFHIrqoocDJHIshd5p_9iXgMEGerxljWIq3vya8FbdSBdL9sxmH8q_ZsEnH4_CZmpi7UVgA9-azHT9e89BAK9SmIbZF1-21ZSA-0OBtB63c7FS9s5ojXO/s512/favicon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdMDT8h-tXrFJ7_SzpZ9HNwlUnBJdFK2DXs0YuyZgqkuPu9gYUTc2ffPLGhhlcT2qpRd5yks4eyuCPle8J-mtoZzSC1izGyOp_5WeeoAQw0Ywk3BwUhklxJVJnEuQGuHRFQnuggYH2_S65VhSv-UVSQkJaN9QP4v1fRQ9-wIkYR17xjzMOz0LM_T3LSGwz/s192/favicon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
